@@ -1,3 +1,42 @@
+# Expense tracker
+
+Builds the app for production to the build folder.\ It correctly bundles React in production mode and optimizes the build for the best performance.
+
+[Source](https://github.com/Up-to-code/expense-tracker) · [Issues](https://github.com/Up-to-code/expense-tracker/issues) · [Project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
+
+## Technology
+
+React.
+
+## Get started
+
+```sh
+git clone https://github.com/Up-to-code/expense-tracker.git
+cd expense-tracker
+```
+
+Requires Node.js and npm.
+
+```sh
+npm ci
+npm run start
+```
+
+## Available commands
+
+| Command | Purpose |
+| --- | --- |
+| `npm run start` | Start the configured application |
+| `npm run build` | Build the project |
+| `npm run test` | Run the configured tests |
+
+## Project structure
+
+- [`src`](./src)
+
+<details>
+<summary>Existing setup notes and credits</summary>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +107,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+</details>
